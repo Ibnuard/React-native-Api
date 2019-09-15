@@ -1,0 +1,39 @@
+{
+  "camera": "Camera",
+  "cancel": "Cancel",
+  "checkConnection": "No internet connection found. \nCheck your connection.",
+  "country": "country",
+  "email": "Email",
+  "error": {
+    "timeOutConnection": "Connection timeout. Please try again later."
+  },
+  "gallery": "Gallery",
+  "loading": "Loading ...",
+  "oops": "Oops!",
+  "password": "Password",
+  "phoneNumber": "Phone number",
+  "pleaseTryAgain": "Please try again",
+  "rememberMe": "Remember me",
+  "selectDate": "Select Date : ",
+  "selectFrom": "Select From : ",
+  "submit": "Submit",
+  "tryAgain": "Try again",
+  "update": "Update",
+  "updateBody": "Please update the application to the new version, \n to get the new contents",
+  "updateTitle": "Update",
+  "appName": "GO GREEN",
+  "appDesc": "Green is Life, Life is Green",
+  "haveAccount": "Already have account?",
+  "onBoarding": {
+    "title1": "Study",
+    "desc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title2": "On Hand",
+    "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title3": "Achieve",
+    "desc3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "signUp": "Sign Up",
+  "login": "Login",
+  "forgetPass": "Forget Password?",
+  "appVersion": "v.1.1"
+}
