@@ -13,6 +13,7 @@ import Input from '../../components/elements/Input';
 import I18n from '../../i18n';
 import IMAGES from '../../configs/images';
 import Button from '../../components/elements/Button';
+import { ENDPOINT } from '../../configs';
 
 export default class Component extends React.Component {
   constructor(props) {
